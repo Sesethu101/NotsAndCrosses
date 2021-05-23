@@ -1,2 +1,1 @@
-# NotsAndCrosses
-Nots and crosses(tictactoe) game
+This is a two-player tictactoe game (nots and crosses) created using Java from eclipse environment. The difference  from most tictactoe games is that it has a 6 by 6 grid. The gui is built with swing graohics class. Some of the functionality of the game is that you can quit/restart the game, the egnine/ algorithm of the game determines the winner. The next cool thing i want to dois to add an AI to the game, so that the computer AI can play with a human player.
